@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Python, Django and Flask**
 
-- 👯 I’m looking to collaborate on [kevinlixx](https://github.com/kevinlixx)
+- 👯 I’m looking to collaborate on 
 
 - 📫 How to reach me **yazo3127@gmail.com**
 </p>
