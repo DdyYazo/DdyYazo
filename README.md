@@ -3,9 +3,8 @@
 <h3 align="center">A passionate backend developer from Colombia</h3>
 
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/mDQDGSMb/python-2.gif' style='width: 50%; height: 50%; border-radius: 30px;' alt='python-2'/></a>
-
-<br />
 </div>
+<br />
 
 ## <picture><img src = "https://i.postimg.cc/wMysYzwN/developer.gif" width = 50px></picture> **About me**
   
@@ -72,16 +71,16 @@
 <!--end content-->
 </td></tr></table>  
 
-<br/>  
+<br/ >  
 
 ## Connect with me  
-<div align="center">
+<div align="left">
 <a href="https://github.com/rishavanand" target="blank"><img align="center" src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
 <a href="https://twitter.com/" target="_blank"><img align="center" alt="Twitter" src="https://img.shields.io/badge/Twitter-%2312100E.svg?style=for-the-badge&logo=X&logoColor=white"></a> 
 <a href="https://www.linkedin.com/in/david-alejandro-yazo-barbosa-a6642830a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRKszfjp3RAGngHdxKtManw%3D%3D" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
 <a href = "mailto:yazo3127@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@yazo3127"  /></a>
 </div>  
-
+<br/ > 
 
 ## <img src="https://i.postimg.cc/KjGgqWVX/git-unscreen.gif" width ="50"><b>Some Projects</b>
 
@@ -91,10 +90,10 @@
 | [git-github-learn](https://github.com/soyJDan/git-github-learn) | This repository contains the resources and materials needed to learn the fundamental concepts of Git and GitHub. |
 | [Balkkota](https://github.com/soyJDan/Balkkota) | Private project |
 | [github-profile-achievements/spanish](https://github.com/soyJDan/spanish) | Complete list of all GitHub profile Badges and Achievements in spanish. |
-<br>
+<br/ >
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
+<br/ >
 
 <div align="left">
   <table>
@@ -113,7 +112,6 @@
 </table>
 </div>
 
-<br>
 <br>
 <br>
 
