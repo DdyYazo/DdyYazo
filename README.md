@@ -82,7 +82,7 @@
 </div>  
 <br> 
 
-## <img src="https://i.postimg.cc/KjGgqWVX/git-unscreen.gif" width ="50"><b>Some Projects</b>
+## <img src="https://i.postimg.cc/1zMsS55j/Green-Screen-git-720p-1-unscreen.gif" width ="100"><b>Some Projects</b>
 
 | Name project | Description |
 ---------------|-------------|
