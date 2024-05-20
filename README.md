@@ -1,25 +1,35 @@
-<div align="center">
+<div align="left">
 <h1 align="center"><b>Hi , I'm David Yazo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">A passionate backend developer from Colombia</h3>
-
-<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/mDQDGSMb/python-2.gif' style='width: 50%; height: 50%; border-radius: 30px;' alt='python-2'/></a>
+<br>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Systems+Enginnering+Student;A+Passionate+Full+Stack+Web+Developer+From+Colombia;Always%20learning%20new%20things&center=true&width=800&height=45&size=25"></a>
+</p>
 </div>
 <br>
 
+
+
 ## <picture><img src = "https://i.postimg.cc/wMysYzwN/developer.gif" width = 50px></picture> **About me**
-  
-<p align="left">
-  
 
-- 🎓 Systems Enginner
+<img align='right' height="320px" width="320px" alt="coding web" src="https://i.postimg.cc/mDQDGSMb/python-2.gif">
 
-- 🌱 I’m currently learning **Python, Django and Flask**
 
-- 👯 I’m looking to collaborate on 
-
-- 📫 How to reach me **yazo3127@gmail.com**
-</p>
+- 💡 &nbsp; I like to be at the forefront of new technologies on the market and the
+constant advances in Artificial Intelligence, excited to learn new things 🤓.
+-🎓 &nbsp; Currently, I am studying Systems Engineering at the Minuto de Dios University Corporation.
+- 🧑🏻‍💻 &nbsp; I work as a competitive programmer, specialized in backend development.
+- 🌱 &nbsp; I'm on my way to learning more about...
+  - Artificial Intelligence,
+  - Python
+  - Backend with Django,
+  - SQL and NoSQL databases
+  - English.
+- ✍️ &nbsp; In my free time, I hone my programming skills through online courses and solving programming challenges.
+- ✉️ &nbsp; You can visit my [website](https://www.adityavsingh.com/resume.html)  and learn more about my projects and career.
+- 📄 &nbsp; Currently, I am open to new [job](https://www.adityavsingh.com/resume.html) opportunities; You can check my resume for more details about me. I'm open to comments and suggestions!
+<hr>
 <br />
+
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Known Technologies </b>
