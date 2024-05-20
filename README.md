@@ -12,7 +12,7 @@
 ## <picture><img src = "https://i.postimg.cc/26sHXMBS/imagen-2024-05-20-000534583.png" width = 30px></picture> **About me**
 
 
-<img align='right' width="320px" alt="coding web" src="https://i.postimg.cc/mDQDGSMb/python-2.gif">
+<img align='right' width="300px" alt="coding web" src="https://i.postimg.cc/vm62LGcN/oie-2074431r-FA41-Ox-X.gif">
 
 - 💡 &nbsp; Passionate about new technologies and Artificial Intelligence.
 - 📈 &nbsp; Excited to learn new things.
