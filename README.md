@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm David Yazo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Systems+Enginnering+Student;A+Passionate+Full+Stack+Web+Developer+From+Colombia;Always%20learning%20new%20things&center=true&width=800&height=45&size=25"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Systems+Enginnering+Student;A+passionate+Full+Stack+web+developer+from+Colombia;Always%20learning%20new%20things&center=true&width=800&height=45&size=25"></a>
 </p>
 </div>
 <br>
@@ -12,7 +12,7 @@
 ## <picture><img src = "https://i.postimg.cc/26sHXMBS/imagen-2024-05-20-000534583.png" width = 30px></picture> **About me**
 
 
-<img align='right' width="300px" alt="coding web" src="https://i.postimg.cc/vm62LGcN/oie-2074431r-FA41-Ox-X.gif">
+<img align='right' width="350px" alt="coding web" src="https://i.postimg.cc/nL7BcvKS/oie-2089451z-JDh-J73.gif">
 
 - 💡 &nbsp; Passionate about new technologies and Artificial Intelligence.
 - 📈 &nbsp; Excited to learn new things.
