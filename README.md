@@ -9,24 +9,19 @@
 
 
 
-## <picture><img src = "https://i.postimg.cc/wMysYzwN/developer.gif" width = 50px></picture> **About me**
-
-<img align='right' height="320px" width="320px" alt="coding web" src="https://i.postimg.cc/mDQDGSMb/python-2.gif">
+## <picture><img src = "https://i.postimg.cc/26sHXMBS/imagen-2024-05-20-000534583.png" width = 30px></picture> **About me**
 
 
-- 💡 &nbsp; I like to be at the forefront of new technologies on the market and the
-constant advances in Artificial Intelligence, excited to learn new things 🤓.
--🎓 &nbsp; Currently, I am studying Systems Engineering at the Minuto de Dios University Corporation.
-- 🧑🏻‍💻 &nbsp; I work as a competitive programmer, specialized in backend development.
-- 🌱 &nbsp; I'm on my way to learning more about...
-  - Artificial Intelligence,
-  - Python
-  - Backend with Django,
-  - SQL and NoSQL databases
-  - English.
-- ✍️ &nbsp; In my free time, I hone my programming skills through online courses and solving programming challenges.
-- ✉️ &nbsp; You can visit my [website](https://www.adityavsingh.com/resume.html)  and learn more about my projects and career.
-- 📄 &nbsp; Currently, I am open to new [job](https://www.adityavsingh.com/resume.html) opportunities; You can check my resume for more details about me. I'm open to comments and suggestions!
+<img align='right' width="320px" alt="coding web" src="https://i.postimg.cc/mDQDGSMb/python-2.gif">
+
+- 💡 &nbsp; Passionate about new technologies and Artificial Intelligence.
+- 📈 &nbsp; Excited to learn new things.
+- 🎓 &nbsp; Systems Engineering Student at the Minuto de Dios University Corporation.
+- 🧑🏻‍💻 &nbsp; Competitive programmer, focused on backend development.
+- 🌱 &nbsp; Expanding my knowledge in Python, Django, AI, SQL, NoSQL and English.
+- ✍️ &nbsp; I improve my skills by solving challenges and taking online courses.
+- ✉️ &nbsp; Learn about my projects and career on my [website](https://www.adityavsingh.com/resume.html).
+- 📄 &nbsp; I am currently open to job opportunities and suggestions; check my [resume](https://www.adityavsingh.com/resume.html).	
 <hr>
 <br />
 
