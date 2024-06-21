@@ -20,8 +20,6 @@
 - 🧑🏻‍💻 &nbsp; Competitive programmer, focused on backend development.
 - 🌱 &nbsp; Expanding my knowledge in Python, Django, AI, SQL, NoSQL and English.
 - ✍️ &nbsp; I improve my skills by solving challenges and taking online courses.
-- ✉️ &nbsp; Learn about my projects and my professional path on my [website](https://www.adityavsingh.com/resume.html).
-- 📄 &nbsp; I'm currently open to job opportunities; You can check my [resume](https://www.adityavsingh.com/resume.html). I'm open to comments and suggestions!
 <hr>
 <br />
 
