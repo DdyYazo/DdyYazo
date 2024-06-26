@@ -76,21 +76,11 @@
 ## Connect with me  
 <div align="left">
 <a href="https://github.com/rishavanand" target="blank"><img align="center" src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
-<a href="https://twitter.com/" target="_blank"><img align="center" alt="Twitter" src="https://img.shields.io/badge/Twitter-%2312100E.svg?style=for-the-badge&logo=X&logoColor=white"></a> 
 <a href="https://www.linkedin.com/in/david-alejandro-yazo-barbosa-a6642830a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRKszfjp3RAGngHdxKtManw%3D%3D" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
 <a href = "mailto:yazo3127@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@yazo3127"  /></a>
 </div>  
 <br> 
 
-## <img src="https://i.postimg.cc/1zMsS55j/Green-Screen-git-720p-1-unscreen.gif" width ="100"><b>Some Projects</b>
-
-| Name project | Description |
----------------|-------------|
-| [MEDACProg_Tema10_Equipo2](https://github.com/ojados/MEDACProg_Tema10_Equipo2) | This project focuses on developing a management system for a library that includes various materials such as books and magazines. |
-| [git-github-learn](https://github.com/soyJDan/git-github-learn) | This repository contains the resources and materials needed to learn the fundamental concepts of Git and GitHub. |
-| [Balkkota](https://github.com/soyJDan/Balkkota) | Private project |
-| [github-profile-achievements/spanish](https://github.com/soyJDan/spanish) | Complete list of all GitHub profile Badges and Achievements in spanish. |
-<br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
